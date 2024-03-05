@@ -1,0 +1,54 @@
+/* Del Toro Cruz Joseph Vladimir */
+*{
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+body{
+    height: 100vh;
+}
+
+header{
+  width: 100%;
+  height: 25%;
+  margin-bottom: 10px;
+  background: #CAFA85;
+}
+
+nav{
+  margin-top: 20px;
+  margin-left: 5%;
+  width: 90%;
+  height: 65%;
+  background: #F3FA85;
+}
+
+#contenedor{
+  display: flex;
+  height: 60%;
+  justify-content: space-around;
+}
+
+aside{
+  width: 45%;
+  background: #CAFA85;
+}
+
+section{
+  width: 53%;
+  background: #CAFA85;
+}
+
+article{
+  margin-top: 3%;
+  margin-left: 5%;
+  height: 30%;
+  width: 90%;
+  background: #F3FA85;
+}
+
+footer{
+  width: 100%;
+  height: 16%;
+  background: #CAFA85;
+}
