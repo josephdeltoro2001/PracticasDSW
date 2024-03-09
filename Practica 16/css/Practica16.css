@@ -1,0 +1,40 @@
+/* Del Toro Cruz Joseph Vladimir */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+}
+
+header, section, footer {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: red;
+}
+
+.nombres{
+    color: blue;
+}
+
+section {
+    margin-top: 40px;
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+}
+
